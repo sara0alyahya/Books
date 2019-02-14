@@ -1,3 +1,15 @@
+.hidden{
+  display: none;
+}
+h1{
+  color: blueviolet
+}
+h2{
+  color: cornflowerblue
+}
+a{
+  color: blue
+}
 .App {
   text-align: center;
 }
